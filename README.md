@@ -1,8 +1,12 @@
 # Vrinda-Store-Annual-Report-Excel-Project
 Project Name: Vrinda Store Sale Report-2022
+
 Organization Name: Vrinda Store
+
 Client: Vrinda Store
+
 Technology: MS Excel
+
 
 
 
