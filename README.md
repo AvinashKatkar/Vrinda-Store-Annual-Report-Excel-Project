@@ -33,6 +33,7 @@ Steps:
 4. Editing chats for proper visualization
 5. Insert Slicers & and make a connection between all chats
 
-Insight & Conclusion Of this Project: By targeting women customers aged (30-49yrs), and cities/states with attracting offers we can achieve better growth in 2023.
+Insight & Conclusion Of this Project: 
+By targeting women customers aged (30-49yrs), and cities/states with attracting offers we can achieve better growth in 2023.
 Skills: Microsoft Excel Pivot Tables Forecasting. Data Cleaning advance excel chats. Graphs
 
