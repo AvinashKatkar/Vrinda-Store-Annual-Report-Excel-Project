@@ -29,9 +29,9 @@ Description: My client wants a sales report for 2022, hence able to understand t
 Steps:
 1. Understanding raw Data
 2. Data cleaning (adding some new column(using formula), checking null/garbage value, replacing some char, deleting unnecessary column)...etc
-3. Data Visualizing by Pivot Tables & Different Chatrs
+3. Data Visualizing by Pivot Tables & Different Charts
 4. Editing chats for proper visualization
-5. Insert Slicers & and make a connection between all chatrs
+5. Insert Slicers & and make a connection between all charts
 
 Insight & Conclusion Of this Project: 
 By targeting women customers aged (30-49yrs), and cities/states with attracting offers we can achieve better growth in 2023.
